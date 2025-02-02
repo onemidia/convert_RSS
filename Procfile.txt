@@ -1,1 +1,1 @@
-web: gunicorn rss_generator:app
+web: gunicorn app:app
